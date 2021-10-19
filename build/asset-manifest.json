@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/static/js/main.138c74e2.chunk.js",
+    "main.js.map": "/static/js/main.138c74e2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7a2f214e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7a2f214e.js.map",
+    "static/js/2.415373f2.chunk.js": "/static/js/2.415373f2.chunk.js",
+    "static/js/2.415373f2.chunk.js.map": "/static/js/2.415373f2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.415373f2.chunk.js.LICENSE.txt": "/static/js/2.415373f2.chunk.js.LICENSE.txt",
+    "static/media/VKIcon.d113d735.png": "/static/media/VKIcon.d113d735.png",
+    "static/media/ViberIcon.175b682a.png": "/static/media/ViberIcon.175b682a.png",
+    "static/media/authIcon1.fefa033a.png": "/static/media/authIcon1.fefa033a.png",
+    "static/media/google.b4825343.png": "/static/media/google.b4825343.png",
+    "static/media/locationIcon.16a6b5ec.png": "/static/media/locationIcon.16a6b5ec.png",
+    "static/media/logo.e337e954.png": "/static/media/logo.e337e954.png",
+    "static/media/phoneIcon.d17f8d15.png": "/static/media/phoneIcon.d17f8d15.png",
+    "static/media/searchIcon.5801c297.png": "/static/media/searchIcon.5801c297.png",
+    "static/media/shoppingCart.c5634512.png": "/static/media/shoppingCart.c5634512.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a2f214e.js",
+    "static/js/2.415373f2.chunk.js",
+    "static/js/main.138c74e2.chunk.js"
+  ]
+}
